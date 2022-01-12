@@ -11,6 +11,8 @@ namespace githubbus1
         static void Main(string[] args)
         {
             Console.WriteLine("yo no v4 wassup\n");
+            Console.WriteLine("Yo no Boberta\n");
+            Console.ReadKey();
         }
     }
 }
